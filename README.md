@@ -1,0 +1,1 @@
+A remake of FHCP's EDI Manager to persuade eveyone to remake the application as an Angular application
